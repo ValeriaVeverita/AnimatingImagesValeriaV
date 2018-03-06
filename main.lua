@@ -1,0 +1,4 @@
+--Title: Animating Images
+-- Name: Ms Raffin
+-- Course: ICSO2
+-- This program displays three images moving in different direction, with some color text and a background
