@@ -1,4 +1,4 @@
---Title: Animating Images
--- Name: Ms Raffin
--- Course: ICSO2
--- This program displays three images moving in different direction, with some color text and a background
+--require composer that will enable to use composer library commands in the project
+local composer = require("composer")
+--invoke the composer go to scene
+composer.gotoScene("Menu",{effect = fade, time = 5000})
